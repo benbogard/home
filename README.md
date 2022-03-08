@@ -1,5 +1,7 @@
 ## Setup
 
+Where it be https://benbogard.github.io/home/
+
 ``` bash
 # Use Node v14
 nvm use v14
