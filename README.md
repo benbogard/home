@@ -15,9 +15,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 
-# Current Branch directory
-starter - starter branch to clone
-wideye - demo for wideeye
-main - current wip
-
 ```
