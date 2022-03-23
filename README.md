@@ -1,6 +1,5 @@
-## Setup
-
 Where it be https://benbogard.github.io/home/
+## Setup
 
 ``` bash
 # Use Node v14
